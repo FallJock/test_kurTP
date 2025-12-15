@@ -1,11 +1,5 @@
 {
   "dependencies": {
-    "ca.tim-cstj.export-project-to-zip": {
-      "version": "file:ca.tim-cstj.export-project-to-zip",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "com.unity.collab-proxy": {
       "version": "2.10.2",
       "depth": 0,

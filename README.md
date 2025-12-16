@@ -22,6 +22,12 @@
     0. [Mini Nature Pack](https://assetstore.unity.com/packages/3d/vegetation/mini-nature-pack-54072)
     0. NatureManufacture Assets > [Winter Mountains and Stamps](https://assetstore.unity.com/packages/3d/environments/landscapes/winter-mountains-and-stamps-129245)
     0. NOT_Lonely > [HQ Big Rock](https://assetstore.unity.com/packages/3d/props/exterior/hq-big-rock-50759)
+    0. Real Stars Skybox > [Real Stars Skybox Lite](https://assetstore.unity.com/packages/3d/environments/sci-fi/real-stars-skybox-lite-116333)
+    0. Realistic Hail Set > [Hail Particles Pack](https://assetstore.unity.com/packages/vfx/particles/environment/hail-particles-pack-62038)
+    0. SineVFX > [Translucent Crystals](https://assetstore.unity.com/packages/3d/environments/fantasy/translucent-crystals-106274)
+    0. SkySeries Freebie > [Skybox Series Free](https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633)
+    0. Trees_WorldSpace_FREE > [World Space Trees (FREE) - Shader](https://assetstore.unity.com/packages/vfx/shaders/world-space-trees-free-shader-117088)
+    0. YughuesFreeRockMaterials > [Yughues Free Rock Materials](https://assetstore.unity.com/packages/2d/textures-materials/stone/yughues-free-rock-materials-12962)
 
 4. Переносим папки скаченных ассетов в папку проекта `labirint_20/Assets`
 5. Импортируем проект `labirint_20` в Unity Hub

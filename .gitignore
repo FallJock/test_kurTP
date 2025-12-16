@@ -100,7 +100,7 @@ labirint_20/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
 labirint_20/Library
 labirint_20/[Aa]ssets/#NVJOB Water Shaders V2
-labirint_20/[Aa]ssets/_TerrainAutoUpgrade
+# labirint_20/[Aa]ssets/_TerrainAutoUpgrade
 labirint_20/[Aa]ssets/8K Skybox Pack Free
 labirint_20/[Aa]ssets/AllSkyFree
 labirint_20/[Aa]ssets/Almgp_unity5_ice
@@ -111,7 +111,8 @@ labirint_20/[Aa]ssets/GrassFlowers
 labirint_20/[Aa]ssets/Mini Nature Pack
 labirint_20/[Aa]ssets/NatureManufacture Assets
 labirint_20/[Aa]ssets/NOT_Lonely
-labirint_20/[Aa]ssets/OptimizationPt2
+# не нашёлся оригинал
+# labirint_20/[Aa]ssets/OptimizationPt2
 labirint_20/[Aa]ssets/Real Stars Skybox
 labirint_20/[Aa]ssets/Realistic Hail Set
 labirint_20/[Aa]ssets/SineVFX
@@ -120,7 +121,7 @@ labirint_20/[Aa]ssets/Trees_WorldSpace_FREE
 labirint_20/[Aa]ssets/YughuesFreeRockMaterials
 
 labirint_20/[Aa]ssets/#NVJOB Water Shaders V2.meta
-labirint_20/[Aa]ssets/_TerrainAutoUpgrade.meta
+# labirint_20/[Aa]ssets/_TerrainAutoUpgrade.meta
 labirint_20/[Aa]ssets/8K Skybox Pack Free.meta
 labirint_20/[Aa]ssets/AllSkyFree.meta
 labirint_20/[Aa]ssets/Almgp_unity5_ice.meta
@@ -131,7 +132,7 @@ labirint_20/[Aa]ssets/GrassFlowers.meta
 labirint_20/[Aa]ssets/Mini Nature Pack.meta
 labirint_20/[Aa]ssets/NatureManufacture Assets.meta
 labirint_20/[Aa]ssets/NOT_Lonely.meta
-labirint_20/[Aa]ssets/OptimizationPt2.meta
+# labirint_20/[Aa]ssets/OptimizationPt2.meta
 labirint_20/[Aa]ssets/Real Stars Skybox.meta
 labirint_20/[Aa]ssets/Realistic Hail Set.meta
 labirint_20/[Aa]ssets/SineVFX.meta

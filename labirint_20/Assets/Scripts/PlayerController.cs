@@ -18,6 +18,7 @@ public class MouseCamera : MonoBehaviour
     private bool groundedPlayer;
     // Гравитация
     private float gravityValue = -9.87f;
+    public static bool moving = true;
     void Start()
     {
         Cursor.lockState = CursorLockMode.Locked;
@@ -25,9 +26,11 @@ public class MouseCamera : MonoBehaviour
 
     void Update()
     {
-        Rotation();
-        Move();
-
+        if (moving)
+        {
+            Rotation();
+            Move();  
+        }
     }
     //  --ВРАЩЕНИЕ--
     private void Rotation()

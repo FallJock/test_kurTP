@@ -28,7 +28,10 @@
     0. SkySeries Freebie > [Skybox Series Free](https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633)
     0. Trees_WorldSpace_FREE > [World Space Trees (FREE) - Shader](https://assetstore.unity.com/packages/vfx/shaders/world-space-trees-free-shader-117088)
     0. YughuesFreeRockMaterials > [Yughues Free Rock Materials](https://assetstore.unity.com/packages/2d/textures-materials/stone/yughues-free-rock-materials-12962)
+    0. LLMUnity > [LLM for Unity](https://assetstore.unity.com/packages/tools/ai-ml-integration/llm-for-unity-273604)
 
 4. Переносим папки скаченных ассетов в папку проекта `labirint_20/Assets`
 5. Импортируем проект `labirint_20` в Unity Hub
 6. Ждём загрузку библиотек и среда разработки настроена
+7. В игровом объекте LLM проекта установить модель например: [Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf](https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF?show_file_info=Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf)
+

@@ -14,6 +14,7 @@ public class text_appear : MonoBehaviour
     private bool turn = true;
     public float rotationSpeed = 100f; 
     public bool isrotate = true;
+    public static bool isactive = true;
 
     void Start()
     {
@@ -22,7 +23,9 @@ public class text_appear : MonoBehaviour
 
     void Update()
     {
-        Appear();
+        if (isactive)
+        {
+            Appear();
         if (Input.GetKeyDown(KeyCode.Z)) 
         {
             if (distanse < offset) 
@@ -31,10 +34,14 @@ public class text_appear : MonoBehaviour
                     add_score.memory = add_score.memory + score; 
                     turn = false;
                 }
+                // thisobj.SetActive(false);
+                
             }
             else Debug.Log("далеко кликаешь бро " + distanse);
         }
         if (isrotate) Rotation();
+        }
+        
     }
 
     void Rotation() 
